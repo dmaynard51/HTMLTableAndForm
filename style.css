@@ -1,0 +1,25 @@
+.greenRow
+{
+    background: lightgreen;
+}
+
+.blueRow
+{
+    background: lightskyblue;
+}
+
+.italics
+{
+    font-style: italic;
+    text-align: center
+}
+
+.redText
+{
+    color: red;
+}
+
+.blueText
+{
+    color: blue;
+}
