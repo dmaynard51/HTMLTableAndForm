@@ -23,3 +23,29 @@
 {
     color: blue;
 }
+
+.outer-content
+{
+    text-align:center;
+    width:75%;
+    background:pink;
+    margin: 20px;
+    height: 30px;
+    padding:10px;
+    
+    
+    
+}
+
+.inner-content
+{
+    
+    width: 75%;
+    height: 10px;
+    margin: 0 auto;
+    padding: 11px;
+    position:center;
+    background:blue;
+    
+    
+}
