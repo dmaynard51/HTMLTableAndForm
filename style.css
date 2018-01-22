@@ -1,12 +1,13 @@
-.greenRow
+.colorRow:nth-of-type(odd)
 {
     background: lightgreen;
 }
 
-.blueRow
+.colorRow:nth-of-type(even)
 {
     background: lightskyblue;
 }
+
 
 .italics
 {
